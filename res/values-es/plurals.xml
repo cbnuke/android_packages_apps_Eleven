@@ -39,7 +39,7 @@
   </plurals>
   <plurals name="Nminutes">
     <item quantity="one"><xliff:g id="minutes">%d</xliff:g>min</item>
-    <item quantity="other"><xliff:g id="minutes">%d</xliff:g>min</item>
+    <item quantity="other"><xliff:g id="minutes">%d</xliff:g>mins</item>
   </plurals>
   <plurals name="NNNtrackstoplaylist">
     <item quantity="one"><xliff:g id="number" example="1">%d</xliff:g> canción añadida a la lista de reproducción.</item>
